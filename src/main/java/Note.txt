@@ -7,4 +7,8 @@
     *git init
     *git add .
     *git commit -m "first commit"
+    *git branch -M main
+    *git remote add origin https://github.com/abayramus/first_git_project.git
+    *git push -u origin main
+    *****Then your code should be pushed to github. REFRESH YOUR PAGE TO SEE THE CODE
 NOTE: git status    ->   This is our friend. This can be used anytime to see the progress
