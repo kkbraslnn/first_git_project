@@ -45,3 +45,4 @@ git push
 git push --set-upstream origin feature -> use when you push for the FIRST TIME. After the first time, git push is enough
 
 BRANCHING
+git branch -a -> show me all branch
